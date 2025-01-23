@@ -1,0 +1,1 @@
+([('cards', '/Users/work/Desktop/Generar tarjetas/dist/cards', 'EXECUTABLE')],)
